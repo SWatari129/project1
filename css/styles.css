@@ -1,0 +1,28 @@
+.container {
+  float: right;
+  max-height: 20%;
+  max-width: 10%;
+}
+  .box {
+  text-align: center;
+  font-family: sans-serif;
+  width: 40%;
+  padding: 10px;
+  border: solid rgb(219, 174, 24);
+  border-width: 10px;
+  background-color: rgb(141, 174, 179);
+  margin: auto;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+ul {
+  text-align: center;
+  list-style-position: inside;
+}
+.tag {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+body {
+  background-color:rgb(46, 60, 78);
+}
