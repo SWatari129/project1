@@ -4,7 +4,7 @@
   height: 90%;
   z-index:-1;
   background-repeat: no-repeat;
-  background-position: center;
+  ;
 }
   .box {
   text-align: center;
@@ -25,6 +25,9 @@ ul {
 .tag {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: bold;
+}
+h3 {
+  text-emphasis-color: rgb(183, 133, 51);
 }
 body {
   background-image: img/portlandOR.jpeg;
