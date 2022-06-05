@@ -1,16 +1,19 @@
 .container {
-  float: right;
-  max-height: 20%;
-  max-width: 10%;
+  position:absolute;
+  width: 80%;
+  height: 90%;
+  z-index:-1;
+  background-repeat: no-repeat;
+  background-position: center;
 }
   .box {
   text-align: center;
   font-family: sans-serif;
   width: 40%;
   padding: 10px;
-  border: solid rgb(219, 174, 24);
+  border: solid rgb(15, 108, 115);
   border-width: 10px;
-  background-color: rgb(141, 174, 179);
+  background-color: rgb(159, 173, 185);
   margin: auto;
   margin-bottom: 10px;
   box-sizing: border-box;
@@ -24,5 +27,6 @@ ul {
   font-weight: bold;
 }
 body {
+  background-image: img/portlandOR.jpeg;
   background-color:rgb(46, 60, 78);
 }
