@@ -12,24 +12,27 @@
   width: 40%;
   padding: 10px;
   border: solid rgb(15, 108, 115);
+  border-radius: 25px;
   border-width: 10px;
-  background-color: rgb(159, 173, 185);
+  background-color: rgb(97, 153, 171);
   margin: auto;
   margin-bottom: 10px;
   box-sizing: border-box;
 }
 ul {
   text-align: center;
-  list-style-position: inside;
+  list-style-position: none;
 }
 .tag {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: bold;
 }
 h3 {
-  text-emphasis-color: rgb(183, 133, 51);
+  color: rgb(241, 237, 231);
+}
+h1 {
+  color:rgb(241, 237, 231);
 }
 body {
-  background-image: img/portlandOR.jpeg;
-  background-color:rgb(46, 60, 78);
+  background-color: rgb(245, 231, 212);
 }
