@@ -14,7 +14,7 @@ A class project that uses HTML and CSS.
 A personal profile page that uses HTML and CSS. Showing some for my first work at coding with Epicodus.
 
 ## Setup/Installation Requirements
-
+* [Click here](https://github.com/SWatari129/project1.git) to view the project.
 *Clone this repository to your desktop.
 *Navigate to the top level of the directory.
 *Open project1/index.html
