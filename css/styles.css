@@ -2,6 +2,11 @@
   position:absolute;
   width: 80%;
   height: 90%;
+  float: auto;
+  left: 25%;  
+  right: 25%;
+  top: 15%;
+  width: 25%;
   z-index:-1;
   background-repeat: no-repeat;
   ;
@@ -9,7 +14,7 @@
   .box {
   text-align: center;
   font-family: sans-serif;
-  width: 40%;
+  width: 70%;
   padding: 10px;
   border: solid rgb(15, 108, 115);
   border-radius: 25px;
