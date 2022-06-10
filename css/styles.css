@@ -11,7 +11,7 @@
   background-repeat: no-repeat;
   ;
 }
-  .box {
+.box {
   text-align: center;
   font-family: sans-serif;
   width: 70%;
@@ -23,6 +23,9 @@
   margin: auto;
   margin-bottom: 10px;
   box-sizing: border-box;
+}
+.bold {
+  font-weight: bold;
 }
 ul {
   text-align: center;
