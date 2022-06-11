@@ -11,10 +11,15 @@
   background-repeat: no-repeat;
   ;
 }
+.myPhoto {
+  width: 7%;
+  max-height: 5%;
+  object-fit: contain;
+}
 .box {
   text-align: center;
   font-family: sans-serif;
-  width: 70%;
+  width: 75%;
   padding: 10px;
   border: solid rgb(15, 108, 115);
   border-radius: 25px;
