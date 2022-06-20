@@ -4,7 +4,7 @@ Contributors, Spencer Watari
 
 A class project that uses HTML and CSS.
 
-* Here's the link to view the document on [ghPages](https://github.com/SWatari129/project1)
+* Here's the link to view the document on [ghPages](https://swatari129.github.io/project1/)
 
 ## Technologies Used
 
