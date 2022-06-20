@@ -4,6 +4,8 @@ Contributors, Spencer Watari
 
 A class project that uses HTML and CSS.
 
+* Here's the link to view the document on [ghPages](https://github.com/SWatari129/project1)
+
 ## Technologies Used
 
 * HTML
@@ -15,7 +17,6 @@ A personal profile page that uses HTML and CSS. Showing some for my first work a
 
 ## Setup/Installation Requirements
 * [Click here](https://github.com/SWatari129/project1.git) to view the project on GitHub.
-* Here's the link to view the document on ghPages https://github.com/SWatari129/project1
 * Clone this repository to your desktop.
 * Navigate to the top level of the directory.
 * Open project1.html
